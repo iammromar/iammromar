@@ -3,11 +3,6 @@
 <h4 align="center">a freelance developer an also an engineering</h4>
 </div>
 
-<div align="center">
-  <a href="https://front1end.github.io/front1end/">
-  <img  src="https://github.com/front1end/front1end/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 [![Mr Omar GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=front1end&theme=tokyonight)](https://git.io/praveenscience)
 

@@ -94,23 +94,5 @@
 ```
 </details>
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/front1end/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=front1end&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="front1end :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/front1end/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=front1end&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=front1end&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-</details>
 
 

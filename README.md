@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/front1end/front1end/blob/main/resources/img/waving.gif">, I'm Mr Omar</h1>
-<h4 align="center">a freelance developer an also an engineering</h4>
+<h4 align="center">I am a freelance developer an also an Cloud engineer</h4>
 </div>
 
 

@@ -6,7 +6,7 @@
 </div>
 
 
-
+![](https://komarev.com/ghpvc/?username=front1end&color=ff69b4)
 
 [![Mr Omar GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=front1end&theme=tokyonight)](https://git.io/praveenscience)
 

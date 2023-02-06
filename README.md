@@ -1,4 +1,5 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+<!-- [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]() -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=front1end&bg_color=7f8ff4&color=ffffff&line=00fffb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <h1 align="center">Hi 👋, I'm Mr Omar</h1>
@@ -8,7 +9,9 @@
 
 ![](https://komarev.com/ghpvc/?username=front1end&color=ff69b4)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=front1end&bg_color=7f8ff4&color=ffffff&line=00fffb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![LeetCode Stats](https://leetcode.card.workers.dev/ilusa?theme=nord&font=source_code_pro&extension=activity)
 
 | ![Mr Omar github stats](https://github-readme-stats.vercel.app/api?username=front1end&show_icons=true&theme=tokyonight) | ![Mr Omar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=front1end&theme=tokyonight) |
 | --- | --- |

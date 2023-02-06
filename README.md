@@ -8,7 +8,7 @@
 
 ![](https://komarev.com/ghpvc/?username=front1end&color=ff69b4)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=front1end&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=front1end&bg_color=7f8ff4&color=ffffff&line=00fffb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 | ![Mr Omar github stats](https://github-readme-stats.vercel.app/api?username=front1end&show_icons=true&theme=tokyonight) | ![Mr Omar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=front1end&theme=tokyonight) |
 | --- | --- |

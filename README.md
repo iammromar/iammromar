@@ -1,4 +1,4 @@
-<!-- [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]() -->
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=front1end&bg_color=7f8ff4&color=ffffff&line=00fffb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">

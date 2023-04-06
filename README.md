@@ -23,7 +23,12 @@
 
 
 <br>
+<!-- ![🏆 GitHub Trophies](https://github-profile-trophy.vercel.app/?username=front1end&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+<br>
 
 <details>
   <summary>☎️ Contact me</summary>

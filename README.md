@@ -15,9 +15,6 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/ilusa?theme=nord&font=source_code_pro&extension=activity)
 
-| ![Mr Omar github stats](https://github-readme-stats.vercel.app/api?username=front1end&show_icons=true&theme=tokyonight) | ![Mr Omar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=front1end&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=front1end&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=front1end&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 

@@ -5,9 +5,6 @@
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="omarbalaqadashov" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://az.linkedin.com/in/omarbalaqadashov?trk=profile-badge">Omar Balagadashov</a></div>
-              
-
 
 
 ![](https://komarev.com/ghpvc/?username=front1end&color=ff69b4)
@@ -23,7 +20,7 @@
 <br>
 <!-- ![🏆 GitHub Trophies](https://github-profile-trophy.vercel.app/?username=front1end&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
-
+             
 
 <br>
 

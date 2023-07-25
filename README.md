@@ -5,7 +5,8 @@
 
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="omarbalaqadashov" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://az.linkedin.com/in/omarbalaqadashov?trk=profile-badge">Omar Balagadashov</a></div>
+              
 
 
 

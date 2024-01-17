@@ -1,17 +1,20 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Mr Omar</h1>
+  <br><br>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<br><br>
 <h4 align="center">I am a Python & JavaScript developer an also an Cloud engineer</h4>
 </div>
 
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
-
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />  
+<br><br>
 
 ![](https://komarev.com/ghpvc/?username=front1end&color=ff69b4)
 
 
 
-![LeetCode Stats](https://leetcode.card.workers.dev/ilusa?theme=nord&font=source_code_pro&extension=activity)
+![LeetCode Stats](https://leetcode.card.workers.dev/iammromar?theme=nord&font=source_code_pro&extension=activity)  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br>
 
 
 
@@ -23,22 +26,4 @@
              
 
 <br>
-
-<details>
-  <summary>☎️ Contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/omarbalaqadashov/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="MrOmar" height="30"/></a>
-      <a href="mailto:mromar.work@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="MrOmar" height="30"/></a>
-    </p>
-  </samp>
-</div>
-</details>
 
